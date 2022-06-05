@@ -1,5 +1,5 @@
 # Project-Python-OkCards
-This application is completely ran through a shell, it uses three important process I thought of that extend mental retention:
+This application is completely ran through a shell, it uses three important process I thought that might extend mental retention. The function relies on mainly three methods:
 - Stochastic process
 - Linear process
 - Leitner System
